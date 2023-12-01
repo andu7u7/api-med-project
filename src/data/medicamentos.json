@@ -4,104 +4,104 @@
       "name": "Paracetamol",
       "description":
         "Analgésico y antifebril comúnmente utilizado para aliviar dolores leves a moderados y reducir la fiebre.",
-      "image": "url_de_la_imagen_del_paracetamol"
+      "image": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/108010M.jpg"
     },
     {
         "id": 2,
       "name": "Ibuprofeno",
       "description":
         "Antiinflamatorio no esteroideo (AINE) que se utiliza para aliviar el dolor y reducir la inflamación.",
-      "image": "url_de_la_imagen_del_ibuprofeno"
+      "image": "https://www.hogarysalud.com.pe/wp-content/uploads/2021/07/80991.jpg"
     },
     {
         "id": 3,
       "name": "Amoxicilina",
       "description":
         "Antibiótico utilizado para tratar infecciones bacterianas, como infecciones del oído, sinusitis y neumonía.",
-      "image": "url_de_la_imagen_de_la_amoxicilina"
+      "image": "https://medfarma.com.pe/wp-content/uploads/2021/10/amoxicilina-suspension.jpg"
     },
     {
         "id": 4,
       "name": "Omeprazol",
       "description":
         "Inhibidor de la bomba de protones (IBP) que reduce la producción de ácido en el estómago, utilizado para tratar problemas gastrointestinales como la acidez estomacal.",
-      "image": "url_de_la_imagen_del_omeprazol"
+      "image": "https://selectpharma.com.gt/sites/default/files/producto/Omeprazol-Caja-28-Capsulas-20-mg.jpg"
     },
     {
         "id": 5,
       "name": "Dipirona",
       "description":
         "Analgésico y antipirético utilizado para aliviar el dolor y reducir la fiebre. Se usa comúnmente como analgésico de acción rápida.",
-      "image": "url_de_la_imagen_de_la_dipirona"
+      "image": "https://www.vitalislaboratorio.com/wp-content/uploads/2020/06/DIPIRONA-MAGNESICA-2-G-1.jpg"
     },
     {
         "id": 6,
       "name": "Loratadina",
       "description":
         "Antihistamínico utilizado para aliviar los síntomas de la alergia, como la picazón en los ojos y la nariz.",
-      "image": "url_de_la_imagen_de_la_loratadina"
+      "image": "https://www.laboratoriochile.cl/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2015/11/Loratadina_10MG_30C_BE.jpg.webp"
     },
     {
         "id": 7,
       "name": "Ciprofloxacino",
       "description":
         "Antibiótico fluoroquinolona utilizado para tratar infecciones bacterianas, como infecciones urinarias y respiratorias.",
-      "image": "url_de_la_imagen_del_ciprofloxacino"
+      "image": "https://boticaportugal.com/cdn/shop/products/9342009160_3e5bd89a-7118-4a5b-af4e-0db06aa22d2f.png?v=1648745347"
     },
     {
         "id": 8,
       "name": "Atorvastatina",
       "description":
         "Estatina utilizada para reducir los niveles de colesterol en sangre y prevenir enfermedades cardiovasculares.",
-      "image": "url_de_la_imagen_de_la_atorvastatina"
+      "image": "https://farmaciauniversal.com/assets/sources/PRODUCTOS/19440.jpg"
     },
     {
         "id": 9,
       "name": "Salbutamol",
       "description":
         "Broncodilatador utilizado para aliviar los síntomas del asma y otras enfermedades respiratorias.",
-      "image": "url_de_la_imagen_del_salbutamol"
+      "image": "https://prixz.com/salud/wp-content/uploads/2020/06/salbutamol-que-es-y-para-que-sirve.png"
     },
     {
         "id": 10,
       "name": "Metformina",
       "description":
         "Antidiabético oral utilizado para controlar los niveles de azúcar en sangre en personas con diabetes tipo 2.",
-      "image": "url_de_la_imagen_de_la_metformina"
+      "image": "https://www.hogarysalud.com.pe/wp-content/uploads/2021/06/00201903.jpg"
     },
     {
         "id": 11,
       "name": "Enalapril",
       "description":
         "Inhibidor de la enzima convertidora de angiotensina (IECA) utilizado para tratar la hipertensión y mejorar la función cardíaca.",
-      "image": "url_de_la_imagen_del_enalapril"
+      "image": "https://atencyplus.pe/wp-content/uploads/enalapril20mg.jpg"
     },
     {
         "id": 12,
       "name": "Dexametasona",
       "description":
         "Corticoide utilizado para reducir la inflamación y tratar diversas condiciones médicas, como alergias y enfermedades autoinmunes.",
-      "image": "url_de_la_imagen_de_la_dexametasona"
+      "image": "https://hmmedical.pe/wp-content/uploads/2022/07/Dexametasona-4mg-2ml-Caja-x-25und.png"
     },
     {
         "id": 13,
       "name": "Hidroclorotiazida",
       "description":
         "Diurético utilizado para tratar la retención de líquidos y controlar la presión arterial.",
-      "image": "url_de_la_imagen_de_la_hidroclorotiazida"
+      "image": "https://benessilabs.com/wp-content/uploads/2021/11/Hidroclorotiazida.jpg"
     },
     {
         "id": 14,
       "name": "Trimebutina",
       "description":
         "Espasmolítico utilizado para aliviar los espasmos intestinales y mejorar los síntomas de trastornos gastrointestinales funcionales.",
-      "image": "url_de_la_imagen_de_la_trimebutina"
+      "image": "https://www.esalud.com/wp-content/uploads/2022/11/maleato-de-trimebutina.jpg"
     },
     {
         "id": 15,
       "name": "Ketorolaco",
       "description":
         "Analgésico no esteroideo (AINE) utilizado para aliviar el dolor agudo, como el dolor postoperatorio.",
-      "image": "url_de_la_imagen_del_ketorolaco"
+      "image": "https://www.fayerwayer.com/resizer/QgLmlKjjmsZ3_hq1Z4Td10hf4So=/arc-photo-metroworldnews/arc2-prod/public/SSWUBTIXQBG2LFNOVT5ME76EXE.jpg"
     }
   ]
