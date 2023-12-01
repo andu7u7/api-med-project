@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+      "name": "Paracetamol",
+      "description":
+        "Analgésico y antifebril comúnmente utilizado para aliviar dolores leves a moderados y reducir la fiebre.",
+      "image": "url_de_la_imagen_del_paracetamol"
+    },
+    {
+        "id": 2,
+      "name": "Ibuprofeno",
+      "description":
+        "Antiinflamatorio no esteroideo (AINE) que se utiliza para aliviar el dolor y reducir la inflamación.",
+      "image": "url_de_la_imagen_del_ibuprofeno"
+    },
+    {
+        "id": 3,
+      "name": "Amoxicilina",
+      "description":
+        "Antibiótico utilizado para tratar infecciones bacterianas, como infecciones del oído, sinusitis y neumonía.",
+      "image": "url_de_la_imagen_de_la_amoxicilina"
+    },
+    {
+        "id": 4,
+      "name": "Omeprazol",
+      "description":
+        "Inhibidor de la bomba de protones (IBP) que reduce la producción de ácido en el estómago, utilizado para tratar problemas gastrointestinales como la acidez estomacal.",
+      "image": "url_de_la_imagen_del_omeprazol"
+    },
+    {
+        "id": 5,
+      "name": "Dipirona",
+      "description":
+        "Analgésico y antipirético utilizado para aliviar el dolor y reducir la fiebre. Se usa comúnmente como analgésico de acción rápida.",
+      "image": "url_de_la_imagen_de_la_dipirona"
+    },
+    {
+        "id": 6,
+      "name": "Loratadina",
+      "description":
+        "Antihistamínico utilizado para aliviar los síntomas de la alergia, como la picazón en los ojos y la nariz.",
+      "image": "url_de_la_imagen_de_la_loratadina"
+    },
+    {
+        "id": 7,
+      "name": "Ciprofloxacino",
+      "description":
+        "Antibiótico fluoroquinolona utilizado para tratar infecciones bacterianas, como infecciones urinarias y respiratorias.",
+      "image": "url_de_la_imagen_del_ciprofloxacino"
+    },
+    {
+        "id": 8,
+      "name": "Atorvastatina",
+      "description":
+        "Estatina utilizada para reducir los niveles de colesterol en sangre y prevenir enfermedades cardiovasculares.",
+      "image": "url_de_la_imagen_de_la_atorvastatina"
+    },
+    {
+        "id": 9,
+      "name": "Salbutamol",
+      "description":
+        "Broncodilatador utilizado para aliviar los síntomas del asma y otras enfermedades respiratorias.",
+      "image": "url_de_la_imagen_del_salbutamol"
+    },
+    {
+        "id": 10,
+      "name": "Metformina",
+      "description":
+        "Antidiabético oral utilizado para controlar los niveles de azúcar en sangre en personas con diabetes tipo 2.",
+      "image": "url_de_la_imagen_de_la_metformina"
+    },
+    {
+        "id": 11,
+      "name": "Enalapril",
+      "description":
+        "Inhibidor de la enzima convertidora de angiotensina (IECA) utilizado para tratar la hipertensión y mejorar la función cardíaca.",
+      "image": "url_de_la_imagen_del_enalapril"
+    },
+    {
+        "id": 12,
+      "name": "Dexametasona",
+      "description":
+        "Corticoide utilizado para reducir la inflamación y tratar diversas condiciones médicas, como alergias y enfermedades autoinmunes.",
+      "image": "url_de_la_imagen_de_la_dexametasona"
+    },
+    {
+        "id": 13,
+      "name": "Hidroclorotiazida",
+      "description":
+        "Diurético utilizado para tratar la retención de líquidos y controlar la presión arterial.",
+      "image": "url_de_la_imagen_de_la_hidroclorotiazida"
+    },
+    {
+        "id": 14,
+      "name": "Trimebutina",
+      "description":
+        "Espasmolítico utilizado para aliviar los espasmos intestinales y mejorar los síntomas de trastornos gastrointestinales funcionales.",
+      "image": "url_de_la_imagen_de_la_trimebutina"
+    },
+    {
+        "id": 15,
+      "name": "Ketorolaco",
+      "description":
+        "Analgésico no esteroideo (AINE) utilizado para aliviar el dolor agudo, como el dolor postoperatorio.",
+      "image": "url_de_la_imagen_del_ketorolaco"
+    }
+  ]
